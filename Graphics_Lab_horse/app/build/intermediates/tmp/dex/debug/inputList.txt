@@ -1,1 +1,1 @@
-F:\Lab_graphics\Graphics_Lab_horse\app\build\intermediates\classes\debug
+G:\Again Started Android\Graphics Lab\app\build\intermediates\classes\debug

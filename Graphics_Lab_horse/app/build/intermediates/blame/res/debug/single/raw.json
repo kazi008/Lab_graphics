@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\Android openGL\\Graphics Lab\\app\\build\\intermediates\\res\\merged\\debug\\raw\\simple_vertex_shader.glsl",
+        "source": "D:\\Android openGL\\Graphics Lab\\app\\src\\main\\res\\raw\\simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "F:\\1107001\\app\\build\\intermediates\\res\\merged\\debug\\raw\\simple_vertex_shader.glsl",
+        "source": "F:\\1107001\\app\\src\\main\\res\\raw\\simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "D:\\Graphics_Lab_horse\\app\\build\\intermediates\\res\\merged\\debug\\raw\\simple_vertex_shader.glsl",
+        "source": "D:\\Graphics_Lab_horse\\app\\src\\main\\res\\raw\\simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "D:\\Graphics_Lab_horse\\app\\build\\intermediates\\res\\merged\\debug\\raw\\simple_fragment_shader.glsl",
+        "source": "D:\\Graphics_Lab_horse\\app\\src\\main\\res\\raw\\simple_fragment_shader.glsl"
+    },
+    {
+        "merged": "D:\\Android openGL\\Graphics Lab\\app\\build\\intermediates\\res\\merged\\debug\\raw\\simple_fragment_shader.glsl",
+        "source": "D:\\Android openGL\\Graphics Lab\\app\\src\\main\\res\\raw\\simple_fragment_shader.glsl"
+    },
+    {
+        "merged": "F:\\1107001\\app\\build\\intermediates\\res\\merged\\debug\\raw\\simple_fragment_shader.glsl",
+        "source": "F:\\1107001\\app\\src\\main\\res\\raw\\simple_fragment_shader.glsl"
+    },
+    {
+        "merged": "F:\\Lab_graphics\\Graphics_Lab_horse\\app\\build\\intermediates\\res\\merged\\debug\\raw\\simple_fragment_shader.glsl",
+        "source": "F:\\Lab_graphics\\Graphics_Lab_horse\\app\\src\\main\\res\\raw\\simple_fragment_shader.glsl"
+    },
+    {
+        "merged": "F:\\Lab_graphics\\Graphics_Lab_horse\\app\\build\\intermediates\\res\\merged\\debug\\raw\\simple_vertex_shader.glsl",
+        "source": "F:\\Lab_graphics\\Graphics_Lab_horse\\app\\src\\main\\res\\raw\\simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "D:\\Android openGL\\1107001\\app\\build\\intermediates\\res\\merged\\debug\\raw\\simple_vertex_shader.glsl",
+        "source": "D:\\Android openGL\\1107001\\app\\src\\main\\res\\raw\\simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "F:\\sazid\\app\\build\\intermediates\\res\\merged\\debug\\raw\\simple_vertex_shader.glsl",
+        "source": "F:\\sazid\\app\\src\\main\\res\\raw\\simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "D:\\Android openGL\\1107001\\app\\build\\intermediates\\res\\merged\\debug\\raw\\simple_fragment_shader.glsl",
+        "source": "D:\\Android openGL\\1107001\\app\\src\\main\\res\\raw\\simple_fragment_shader.glsl"
+    },
+    {
+        "merged": "F:\\sazid\\app\\build\\intermediates\\res\\merged\\debug\\raw\\simple_fragment_shader.glsl",
+        "source": "F:\\sazid\\app\\src\\main\\res\\raw\\simple_fragment_shader.glsl"
+    }
+]

@@ -42,10 +42,10 @@ public class AirHockeyActivity extends Activity {
         // OpenGL ES 2.0.
         final boolean supportsEs2 =
             configurationInfo.reqGlEsVersion >= 0x20000
-                || (Build.VERSION.SDK_INT >= Build.VERSION_CODES.ICE_CREAM_SANDWICH_MR1 
+                || (Build.VERSION.SDK_INT >= Build.VERSION_CODES.ICE_CREAM_SANDWICH_MR1
                  && (Build.FINGERPRINT.startsWith("generic")
                   || Build.FINGERPRINT.startsWith("unknown")
-                  || Build.MODEL.contains("google_sdk") 
+                  || Build.MODEL.contains("google_sdk")
                   || Build.MODEL.contains("Emulator")
                   || Build.MODEL.contains("Android SDK built for x86")));
 
@@ -59,14 +59,14 @@ public class AirHockeyActivity extends Activity {
         } else {
             /*
              * This is where you could create an OpenGL ES 1.x compatible
-             * renderer if you wanted to support both ES 1 and ES 2. Since 
-             * we're not doing anything, the app will crash if the device 
-             * doesn't support OpenGL ES 2.0. If we publish on the market, we 
+             * renderer if you wanted to support both ES 1 and ES 2. Since
+             * we're not doing anything, the app will crash if the device
+             * doesn't support OpenGL ES 2.0. If we publish on the market, we
              * should also add the following to AndroidManifest.xml:
-             * 
+             *
              * <uses-feature android:glEsVersion="0x00020000"
              * android:required="true" />
-             * 
+             *
              * This hides our app from those devices which don't support OpenGL
              * ES 2.0.
              */

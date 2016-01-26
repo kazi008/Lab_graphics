@@ -1,4 +1,4 @@
-precision mediump float;
+precision mediump; float;
       	 								
 uniform vec4 u_Color;          	   								
   
